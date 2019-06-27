@@ -1,10 +1,8 @@
 ## Templates
 행복성장플랫폼의 개발 템플릿을 활용하면 Cloud Native Application을 쉽고 편리하게 구현하실 수 있습니다.
 
-- React Frontend Template
-React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
-
-[※템플릿 바로가기](https://github.com/hitechinfo/template_frontend_react_001)
+- [React Frontend Template](https://github.com/hitechinfo/template_frontend_react_001)
+: React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
 - Node.js Backend Template
 Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
