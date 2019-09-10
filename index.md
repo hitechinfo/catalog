@@ -3,6 +3,7 @@
 
 - [React Frontend ver.1](https://github.com/hitechinfo/template_frontend_react_001)
  : React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
+ : 행복성장캠퍼스 프레임을 사용하실 수 있습니다!
  
 - [React Frontend ver.2](https://github.com/hitechinfo/template_frontend_react_002)
  : Semantic UI를 활용한 React 템플릿
