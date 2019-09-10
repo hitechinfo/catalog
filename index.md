@@ -1,4 +1,4 @@
-## :sparkles: Templates
+## Templates
 행복성장캠퍼스의 개발 템플릿을 활용하면 Cloud Native Application을 쉽고 편리하게 구현하실 수 있습니다.
 
 - [React Frontend ver.1](https://github.com/hitechinfo/template_frontend_react_001)
