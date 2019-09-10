@@ -1,20 +1,23 @@
 ## Templates
 행복성장캠퍼스의 개발 템플릿을 활용하면 Cloud Native Application을 쉽고 편리하게 구현하실 수 있습니다.
 
+### Frontend
 - [React Frontend ver.1](https://github.com/hitechinfo/template_frontend_react_001)
  : React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
-
-- [Node.js Backend ver.1](https://github.com/hitechinfo/template_backend_node_001)
- : Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
-
-- [SpringBoot Backend ver.1](https://github.com/hitechinfo/template_backend_springboot_001)
- : Springboot, Spring Security, JPA 기반 템플릿
  
 - [React Frontend ver.2](https://github.com/hitechinfo/template_frontend_react_002)
  : Semantic UI를 활용한 React Template
 
+### Backend
+
+- [Node.js Backend ver.1](https://github.com/hitechinfo/template_backend_node_001)
+ : Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
+
 - [Node.js Backend ver.2](https://github.com/hitechinfo/template_backend_node_002)
  : 기본적인 REST 샘플이 구현된 Backend 템플릿
+
+- [SpringBoot Backend ver.1](https://github.com/hitechinfo/template_backend_springboot_001)
+ : Springboot, Spring Security, JPA 기반 템플릿
 
 - [SpringBoot Backend ver.2](https://github.com/hitechinfo/template_backend_springboot_002)
  : Mybatis를 활용하여 REST 기능만 구현한 템플릿
