@@ -1,26 +1,26 @@
 ## Templates
-행복성장플랫폼의 개발 템플릿을 활용하면 Cloud Native Application을 쉽고 편리하게 구현하실 수 있습니다.
+행복성장캠퍼스의 개발 템플릿을 활용하면 Cloud Native Application을 쉽고 편리하게 구현하실 수 있습니다.
 
-- [React Frontend v1](https://github.com/hitechinfo/template_frontend_react_001)
+- [React Frontend ver.1](https://github.com/hitechinfo/template_frontend_react_001)
  : React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
-- [Node.js Backend v1](https://github.com/hitechinfo/template_backend_node_001)
+- [Node.js Backend ver.1](https://github.com/hitechinfo/template_backend_node_001)
  : Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
 
-- [SpringBoot Backend v1](https://github.com/hitechinfo/template_backend_springboot_001)
+- [SpringBoot Backend ver.1](https://github.com/hitechinfo/template_backend_springboot_001)
  : Springboot, Spring Security, JPA 기반 템플릿
  
-- [React Frontend v2](https://github.com/hitechinfo/template_frontend_react_002)
+- [React Frontend ver.2](https://github.com/hitechinfo/template_frontend_react_002)
  : Semantic UI를 활용한 React Template
 
-- [Node.js Backend v2](https://github.com/hitechinfo/template_backend_node_002)
+- [Node.js Backend ver.2](https://github.com/hitechinfo/template_backend_node_002)
  : 기본적인 REST 샘플이 구현된 Backend 템플릿
 
-- [SpringBoot Backend v2](https://github.com/hitechinfo/template_backend_springboot_002)
+- [SpringBoot Backend ver.2](https://github.com/hitechinfo/template_backend_springboot_002)
  : Mybatis를 활용하여 REST 기능만 구현한 템플릿
  
 ## Configs
-행복성장플랫폼의 설정 파일로 CloudZ에 배포해보세요.
+행복성장캠퍼스의 설정 파일을 활용하면 CloudZ에 배포가 쉬워집니다.
 
 - [React Frontend config](https://github.com/hitechinfo/config_frontend_react_001)
 : Ingress가 적용된 Frontend 배포 설정
@@ -33,7 +33,7 @@
 
 
 ## Modules
-행복성장플랫폼의 모듈을 활용하여 서비스를 구현해보세요.
+행복성장캠퍼스의 모듈을 활용하여 서비스를 구현해보세요.
 
 - [Node.js 인증](https://github.com/hitechinfo/module_auth_node_001)
  : Node.js, Redis, JWT 기반 인증 모듈
