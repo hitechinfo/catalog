@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Catalog
 description: 행복성장플랫폼의 템플릿과 모듈을 사용해보세요.
-cover: assets/images/laptop.png
+url: https://hitechinfo.github.io/catalog/
+use_logo: true
+logo: assets/images/laptop.png
+search_in_topnav: true
