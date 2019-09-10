@@ -1,14 +1,11 @@
 ## Templates
 행복성장캠퍼스의 개발 템플릿을 활용하면 Cloud Native Application을 쉽고 편리하게 구현하실 수 있습니다.
 
-### Frontend
 - [React Frontend ver.1](https://github.com/hitechinfo/template_frontend_react_001)
  : React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
  
 - [React Frontend ver.2](https://github.com/hitechinfo/template_frontend_react_002)
- : Semantic UI를 활용한 React Template
-
-### Backend
+ : Semantic UI를 활용한 React 템플릿
 
 - [Node.js Backend ver.1](https://github.com/hitechinfo/template_backend_node_001)
  : Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
