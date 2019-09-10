@@ -19,7 +19,7 @@
 - [SpringBoot Backend v2](https://github.com/hitechinfo/template_backend_springboot_002)
  : Mybatis를 활용하여 REST 기능만 구현한 템플릿
  
-## Configs for CloudZ
+## Configs
 행복성장플랫폼의 설정 파일로 CloudZ에 배포해보세요.
 
 - [React Frontend config](https://github.com/hitechinfo/config_frontend_react_001)
